@@ -10,6 +10,10 @@
     <version>1.0.0</version>
     <modules>
         <module>iFish_Common</module>
+        <module>iFish_Domain</module>
+        <module>iFish_Mapper</module>
+        <module>iFish_Controller</module>
+        <module>iFish_Service</module>
     </modules>
 
     <!--jar包的依赖版本号-->

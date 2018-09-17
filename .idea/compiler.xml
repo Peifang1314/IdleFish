@@ -7,6 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="iFish_Common" />
+        <module name="iFish_Controller" />
+        <module name="iFish_Domain" />
+        <module name="iFish_Mapper" />
+        <module name="iFish_Service" />
       </profile>
     </annotationProcessing>
   </component>
